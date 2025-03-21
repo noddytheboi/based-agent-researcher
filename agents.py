@@ -21,7 +21,7 @@ BASESCAN_API_KEY = os.environ.get("BASESCAN_API_KEY")
 
 w3 = Web3(
     Web3.HTTPProvider(
-        "RPC-Node-Url"
+        "your rpc url"
     )
 )
 
