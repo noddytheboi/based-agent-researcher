@@ -22,7 +22,7 @@ RPC_URL = os.environ.get("RPC_URL")
 
 w3 = Web3(
     Web3.HTTPProvider(
-        "your rpc url"
+        RPC_URL
     )
 )
 
