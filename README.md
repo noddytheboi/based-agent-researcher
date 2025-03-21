@@ -16,7 +16,7 @@ Ok, what it can do:
 ### Key Features
 
 - retrieving full breakdown of token top holders(e.g token holders data(supply,%,usd value),
-    its net-worth,wallet PnL and trade volume)
+    its net-worth,wallet PnL and trade volume) filtering EOAs from contract addresses.
 - compare two or more tokens (sequentally e.g you ask check token A,then B,and then asking to compare A & B)   
 - screening transfers to look-up token holders transfer history to find out any
     connections with other token holders
