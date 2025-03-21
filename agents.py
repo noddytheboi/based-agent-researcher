@@ -16,6 +16,7 @@ MORALIS_API_KEY = os.environ.get("MORALIS_API_KEY")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL")
 BASESCAN_API_KEY = os.environ.get("BASESCAN_API_KEY")
+RPC_URL = os.environ.get("RPC_URL")
 
 # Initializing web3 connection
 
