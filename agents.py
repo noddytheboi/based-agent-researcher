@@ -21,7 +21,7 @@ BASESCAN_API_KEY = os.environ.get("BASESCAN_API_KEY")
 
 w3 = Web3(
     Web3.HTTPProvider(
-        "https://site1.moralis-nodes.com/base/edfad7446e9e45ef8800fbf4a7ae8a57"
+        "RPC-Node-Url"
     )
 )
 
