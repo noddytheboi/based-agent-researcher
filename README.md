@@ -25,7 +25,7 @@ Ok, what it can do:
 - combine all above,actually you will figure out when try,its up on your imagination,agent could go much deeper....
 
 ### Prerequisites
-- Python 3.7+
+- Python >=3.10.0,<3.12
 - Poetry
 
 ### API Configuration
