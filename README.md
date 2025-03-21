@@ -46,7 +46,19 @@ You can get the Moralis API key here: https://admin.moralis.com/register, Basesc
 
 ### Running the Agent
 
-After adding your API Keys to the .env file, you start the agent by terminal command **python run.py**
+After adding your API Keys to the .env file, you start the agent by terminal command **python run.py** and chose mode 1.
+
+'''Available modes:
+1. chat    - Interactive chat mode
+2. auto    - Autonomous action mode
+3. two-agent - AI-to-agent conversation mode
+
+Choose a mode (enter number or name): 1     
+
+Starting chat mode...
+Starting Swarm CLI 🐝
+User: hey
+Based Agent: Hi there! How can I help you today?'''
 
 The agent is typically interacted with through a conversational interface.  You can ask it questions like:
 
