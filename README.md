@@ -34,6 +34,7 @@ Set yours keys and llm base_url as environment variables:
 
 If you are not using OpenAi, you also have to set up model name of proprietary llm (e.g model = "google/gemini-2.0-pro-exp-02-05:free") in Agent arguments
 (check agents.py)
+
 ![image](https://github.com/user-attachments/assets/1e08c265-c0dd-4149-87ef-bc0ba8c1acff)
 
 You can get the Moralis API key here: https://admin.moralis.com/register, Basescan API key here: https://docs.basescan.org/getting-started/viewing-api-usage-statistics. And the OpenAI key here: https://platform.openai.com/api-keys (note you will need to have a paid account)
