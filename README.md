@@ -9,7 +9,7 @@ I know you have your Rick/Phanes or else,this is was for fun and personal use.
 Hi, this is lame-researcher 0.1 based on Based Agent. It was intended as a basic analytical tool or data scraper on Base, so i removed all CDP stuff (sorry) like wallet interactions etc. Now its trimmed to the level of bare Swarm (i guess). Its utilizing 2 blockchain API (Moralis and Basescan) + 1 for LLM. The main advantage (as i see), is you can extract smart/whale wallets to feed them
 after using Interface/Dropstab or so. Also agent is really helpful in highlighting some things (maybe obvious) or patterns based on analysis, but the point is it shows it CLEARLY.
 
-This was wrote with bare minimum knowledge of programming on python. So its a 100% you will find stpid typos or missings. But it works, and exceed any of my expectations.
+This was written with bare minimum knowledge of programming on python. So its a 100% you will find stpid typos or missings. But it works, and exceed any of my expectations.
 
 Ok, what it can do:
 
