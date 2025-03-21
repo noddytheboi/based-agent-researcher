@@ -101,7 +101,7 @@ Based Agent uses:
 - **OpenRouter API**
 
 My setup was completely free, i tried to use Deepseek, its not working. So i used Moralis EVM API free endpoints, Basescan Api free endpoints 
-and Gemini 2.0 Pro-Exp free through Openrouter. Even though it works very well.Feel free to use Gpt, Claude, Grok whatever... 
+and Gemini 2.0 Pro-Exp free through Openrouter. Even though it works very well. Feel free to use Gpt, Claude, Grok whatever... 
 
 ## ❤️ Acknowledgements
 
