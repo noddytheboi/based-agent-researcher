@@ -1,6 +1,8 @@
 # 🔵 lame-researcher 0.1(trimmed-Based Agent)
 
 An experimental playground for autonomous onchain interactions, and the starting point of the autonomous onchain agent revolution. 
+## Spoiler
+I know you have your Rick/Phanes or else,this is was for fun and personal use.
 
 ## Introduction
 
